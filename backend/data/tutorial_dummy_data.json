@@ -1,0 +1,152 @@
+[
+  {
+    "title": "Understanding Node.js Event Loop - Part 1",
+    "description": "An in-depth look at how the Node.js event loop works and how it handles asynchronous operations.",
+    "published": true
+  },
+  {
+    "title": "Building RESTful APIs with Express",
+    "description": "A step-by-step guide to creating robust RESTful APIs using the Express.js framework.",
+    "published": false
+  },
+  {
+    "title": "Sequelize ORM: Data Modeling Basics",
+    "description": "Learn the fundamentals of defining models, associations, and migrations with Sequelize.",
+    "published": true
+  },
+  {
+    "title": "PostgreSQL for Beginners",
+    "description": "A simple introduction to PostgreSQL, covering basic SQL commands and database management.",
+    "published": false
+  },
+  {
+    "title": "Asynchronous JavaScript with async/await",
+    "description": "Master the modern approach to handling asynchronous code with the async/await syntax.",
+    "published": true
+  },
+  {
+    "title": "Unit Testing with Jest",
+    "description": "How to set up and write effective unit tests for your JavaScript and Node.js applications.",
+    "published": false
+  },
+  {
+    "title": "JWT Authentication in Node.js",
+    "description": "Implement secure JSON Web Token (JWT) based authentication for your Express API.",
+    "published": true
+  },
+  {
+    "title": "Dockerizing a Node.js Application",
+    "description": "Containerize your Node.js app using Docker to simplify deployment and development.",
+    "published": false
+  },
+  {
+    "title": "GraphQL vs. REST: A Comparison",
+    "description": "Explore the differences and use cases for GraphQL and REST API architectures.",
+    "published": true
+  },
+  {
+    "title": "Introduction to MongoDB",
+    "description": "Get started with MongoDB, a popular NoSQL database, and its key concepts.",
+    "published": false
+  },
+  {
+    "title": "Express Middleware Explained",
+    "description": "Deep dive into creating and using middleware functions in your Express applications.",
+    "published": true
+  },
+  {
+    "title": "Building Real-time Apps with WebSockets",
+    "description": "Learn how to enable real-time communication between clients and servers using WebSockets.",
+    "published": false
+  },
+  {
+    "title": "Understanding HTTP Status Codes",
+    "description": "A comprehensive guide to HTTP status codes and their importance in API design.",
+    "published": true
+  },
+  {
+    "title": "Deploying a Node.js App to Heroku",
+    "description": "A step-by-step tutorial on how to deploy your Node.js application to Heroku.",
+    "published": false
+  },
+  {
+    "title": "Using Environment Variables in Node.js",
+    "description": "Securely manage configuration and secrets in your application with environment variables.",
+    "published": true
+  },
+  {
+    "title": "Sequelize Associations: One-to-Many",
+    "description": "Learn how to define and query one-to-many relationships between your Sequelize models.",
+    "published": false
+  },
+  {
+    "title": "API Rate Limiting with Node.js",
+    "description": "Implement rate limiting to protect your API from abuse and denial-of-service attacks.",
+    "published": true
+  },
+  {
+    "title": "Caching Strategies for APIs",
+    "description": "Optimize API performance and reduce database load with various caching techniques.",
+    "published": false
+  },
+  {
+    "title": "Serverless Functions with AWS Lambda",
+    "description": "Explore the world of serverless computing by building and deploying functions with AWS Lambda.",
+    "published": true
+  },
+  {
+    "title": "Working with Files in Node.js",
+    "description": "Learn how to read, write, and manipulate files using the Node.js file system module.",
+    "published": false
+  },
+  {
+    "title": "Sequelize Migrations and Seeding",
+    "description": "Manage database schema changes and populate your database with seed data using Sequelize CLI.",
+    "published": true
+  },
+  {
+    "title": "Handling Errors in Node.js",
+    "description": "Best practices for error handling, from custom error classes to middleware.",
+    "published": false
+  },
+  {
+    "title": "Logging Best Practices with Winston",
+    "description": "Set up a robust logging system for your application using the Winston library.",
+    "published": true
+  },
+  {
+    "title": "Securing Express Apps with Helmet",
+    "description": "Protect your Express API from common web vulnerabilities with the Helmet middleware.",
+    "published": false
+  },
+  {
+    "title": "Designing Effective API Endpoints",
+    "description": "Principles of designing clean, intuitive, and consistent API endpoints for a better developer experience.",
+    "published": true
+  },
+  {
+    "title": "Introduction to TypeScript for Node.js",
+    "description": "Start using TypeScript in your Node.js projects to add static typing and improve code quality.",
+    "published": false
+  },
+  {
+    "title": "Debugging Node.js with VS Code",
+    "description": "A guide to using the powerful built-in debugging tools in VS Code for Node.js.",
+    "published": true
+  },
+  {
+    "title": "Sequelize Validations",
+    "description": "Implement data validation on your Sequelize models to ensure data integrity.",
+    "published": false
+  },
+  {
+    "title": "Web Scraping with Puppeteer",
+    "description": "Automate web interactions and scrape data from websites using the Puppeteer library.",
+    "published": true
+  },
+  {
+    "title": "CI/CD Pipeline with GitHub Actions",
+    "description": "Set up an automated continuous integration and continuous deployment pipeline for your projects.",
+    "published": false
+  }
+]
